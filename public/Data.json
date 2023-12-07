@@ -1,0 +1,52 @@
+[
+    {
+      "id": 1,
+      "name": "Classic White Tee",
+      "picture": "https://example.com/classic-white-tee.jpg",
+      "price": 19.99,
+      "gender": "unisex"
+    },
+    {
+      "id": 2,
+      "name": "Graphic Print T-shirt",
+      "picture": "https://example.com/graphic-print-tshirt.jpg",
+      "price": 24.99,
+      "gender": "male"
+    },
+    {
+      "id": 3,
+      "name": "V-Neck Casual Tee",
+      "picture": "https://example.com/v-neck-tee.jpg",
+      "price": 21.99,
+      "gender": "female"
+    },
+    {
+      "id": 4,
+      "name": "Striped Polo Shirt",
+      "picture": "https://example.com/striped-polo-shirt.jpg",
+      "price": 29.99,
+      "gender": "male"
+    },
+    {
+      "id": 5,
+      "name": "Floral Print T-shirt",
+      "picture": "https://example.com/floral-print-tshirt.jpg",
+      "price": 26.99,
+      "gender": "female"
+    },
+    {
+      "id": 6,
+      "name": "Sporty Performance Tee",
+      "picture": "https://example.com/sporty-tee.jpg",
+      "price": 34.99,
+      "gender": "unisex"
+    },
+    {
+      "id": 7,
+      "name": "Long Sleeve Comfort Tee",
+      "picture": "https://example.com/long-sleeve-tee.jpg",
+      "price": 31.99,
+      "gender": "unisex"
+    }
+  ]
+  
