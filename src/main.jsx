@@ -11,6 +11,7 @@ import MainLayout from './Layout/MainLayout.jsx';
 import OrderReview from './Components/Order/OrderReview.jsx';
 import About from './Components/About/About.jsx';
 import Contact from './Components/Contact/Contact.jsx';
+import Grandpa from './Components/Grandpa/Grandpa.jsx';
 
 
 const router = createBrowserRouter([
@@ -28,11 +29,16 @@ const router = createBrowserRouter([
         path: 'review',
         element: <OrderReview></OrderReview>
 
-      }
-      ,
+      },
+      {
+        path: '/grandpa',
+        element: <Grandpa></Grandpa>
+
+      },
       {
         path: 'about',
-        element: <About></About>
+        element: <About></About>,
+        loader: ()=>fetch(`generated.json`)
 
       },
       {

@@ -1,0 +1,16 @@
+.grandpa, .grandpa div{
+
+    border: 1px solid goldenrod;
+    padding: 10px;
+    margin: 10px;
+    color: azure;
+}
+
+
+.flex{
+
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    color: azure;
+}
