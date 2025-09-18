@@ -12,3 +12,91 @@
     width:200px;
     border-radius: 10px;
 }
+
+.tshirt-card {
+    background: white;
+    border-radius: 12px;
+    overflow: hidden;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.tshirt-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 8px 15px rgba(0, 0, 0, 0.2);
+}
+
+.image-container {
+    width: 100%;
+    height: 250px;
+    overflow: hidden;
+    position: relative;
+}
+
+.image-container img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    transition: transform 0.3s ease;
+}
+
+.tshirt-card:hover .image-container img {
+    transform: scale(1.05);
+}
+
+.tshirt-details {
+    padding: 1.5rem;
+}
+
+.tshirt-name {
+    font-size: 1.2rem;
+    color: #2c3e50;
+    margin: 0 0 0.5rem 0;
+}
+
+.tshirt-info {
+    display: flex;
+    gap: 1rem;
+    margin-bottom: 1rem;
+}
+
+.tshirt-gender, .tshirt-size {
+    font-size: 0.9rem;
+    color: #7f8c8d;
+    background-color: #f7f9fc;
+    padding: 0.2rem 0.8rem;
+    border-radius: 12px;
+}
+
+.price-section {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.price {
+    font-size: 1.3rem;
+    font-weight: bold;
+    color: #2ecc71;
+}
+
+.buy-button {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    padding: 0.6rem 1.2rem;
+    background-color: #34dbb4;
+    color: white;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.buy-button:hover {
+    background-color: #59a9c9;
+}
+
+.cart-icon {
+    font-size: 0.9rem;
+}

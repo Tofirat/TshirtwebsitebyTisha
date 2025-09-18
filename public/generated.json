@@ -5,15 +5,15 @@
     "price": 14,
     "picture": "https://i.pinimg.com/originals/9f/3d/13/9f3d13912d3cf78e4c87975bcebc1fee.jpg",
     "name": "Just Chill",
-    "gender": "Just Chill"
+    "gender": "unisex"
   },
   {
     "_id": "623853b2578e9e6ad1ae0dd5",
     "index": 1,
-    "picture": "https://render.fineartamerica.com/images/rendered/default/t-shirt/23/30/images/artworkimages/medium/1/coffee-coding-syntax-aadil-farooq-transparent.png?targetx=0&targety=0&imagewidth=430&imageheight=516&modelwidth=430&modelheight=575",
+    "picture": "https://img01.ztat.net/article/spp-media-p1/c5fdf06bd01048ec8024b831b4f2bea9/8d29d6427fdb4cbd9b6ef6ffd1a7ea0f.jpg?imwidth=762&filter=packshot",
     "name": "Keep Coding",
     "price": 27,
-    "gender": "Keep Coding"
+    "gender": "male"
   },
   {
     "_id": "623853b21fb149d2ee7b76c7",
@@ -21,7 +21,7 @@
     "picture": "https://images.unsplash.com/photo-1583743814966-8936f5b7be1a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8dCUyMHNoaXJ0fGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
     "name": "Black",
     "price": 24,
-    "gender": ""
+    "gender": "unisex"
   },
   {
     "_id": "623853b2e91c8de578c9245e",
@@ -29,7 +29,7 @@
     "picture": "https://5.imimg.com/data5/SH/GC/MY-8764775/mens-t-shirt-500x500.jpg",
     "name": "Mix Yellow",
     "price": 14,
-    "gender": "Mix Yellow"
+    "gender": "male"
   },
   {
     "_id": "623853b2239582e48409ccc6",
@@ -53,6 +53,190 @@
     "price": 41,
     "picture": "https://i.pinimg.com/236x/af/96/95/af9695e0116a1d859336024e6cdcea10.jpg",
     "name": "Black Skull",
+    "gender": "female"
+  },
+  {
+    "_id": "623853b2ab7d32ef8a2c9876",
+    "index": 7,
+    "price": 19,
+    "picture": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=60",
+    "name": "Vintage Rock",
+    "gender": "unisex"
+  },
+  {
+    "_id": "623853b2ff4e5ac9b12d3458",
+    "index": 8,
+    "price": 22,
+    "picture": "https://images.unsplash.com/photo-1618354691373-d851c5c3a990?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=60",
+    "name": "Coffee First",
+    "gender": "female"
+  },
+  {
+    "_id": "623853b2de8f7bc4e91a2345",
+    "index": 9,
+    "price": 16,
+    "picture": "https://images.unsplash.com/photo-1576566588028-4147f3842f27?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=60",
+    "name": "Ocean Blue",
+    "gender": "male"
+  },
+  {
+    "_id": "623853b2ca9b8def7123abcd",
+    "index": 10,
+    "price": 28,
+    "picture": "https://images.unsplash.com/photo-1529374255404-311a2a4f1fd9?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=60",
+    "name": "Sunset Vibes",
+    "gender": "female"
+  },
+  {
+    "_id": "623853b2e5f8a9bc3456def7",
+    "index": 11,
+    "price": 18,
+    "picture": "https://images.unsplash.com/photo-1571945153237-4929e783af4a?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=60",
+    "name": "Stay Wild",
+    "gender": "unisex"
+  },
+  {
+    "_id": "623853b2f7c4b8de9012ef34",
+    "index": 12,
+    "price": 32,
+    "picture": "https://images.unsplash.com/photo-1627225924765-552d49cf47ad?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=60",
+    "name": "Neon Dreams",
+    "gender": "female"
+  },
+  {
+    "_id": "623853b2ab9def4567890123",
+    "index": 13,
+    "price": 15,
+    "picture": "https://images.unsplash.com/photo-1562157873-818bc0726f68?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=60",
+    "name": "Classic White",
+    "gender": "unisex"
+  },
+  {
+    "_id": "623853b2cd456789abcdef01",
+    "index": 14,
+    "price": 25,
+    "picture": "https://images.unsplash.com/photo-1489987707025-afc232f7ea0f?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=60",
+    "name": "Good Vibes Only",
+    "gender": "female"
+  },
+  {
+    "_id": "623853b2ef123456789abcde",
+    "index": 15,
+    "price": 20,
+    "picture": "https://images.unsplash.com/photo-1598300042247-d088f8ab3a91?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=60",
+    "name": "Urban Style",
+    "gender": "male"
+  },
+  {
+    "_id": "623853b2123456789abcdef0",
+    "index": 16,
+    "price": 29,
+    "picture": "https://images.unsplash.com/photo-1576566588028-4147f3842f27?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=60",
+    "name": "Mountain Explorer",
+    "gender": "unisex"
+  },
+  {
+    "_id": "623853b2abcdef0123456789",
+    "index": 17,
+    "price": 17,
+    "picture": "https://images.unsplash.com/photo-1503341338985-cbeef4a9fe0d?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=60",
+    "name": "Retro Rainbow",
+    "gender": "female"
+  },
+  {
+    "_id": "623853b2def0123456789abc",
+    "index": 18,
+    "price": 26,
+    "picture": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=60",
+    "name": "Band Tee",
+    "gender": "male"
+  },
+  {
+    "_id": "623853b20123456789abcdef",
+    "index": 19,
+    "price": 21,
+    "picture": "https://images.unsplash.com/photo-1618354691373-d851c5c3a990?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=60",
+    "name": "Minimal Design",
+    "gender": "unisex"
+  },
+  {
+    "_id": "623853b2456789abcdef0123",
+    "index": 20,
+    "price": 33,
+    "picture": "https://images.unsplash.com/photo-1571945153237-4929e783af4a?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=60",
+    "name": "Adventure Awaits",
+    "gender": "female"
+  },
+  {
+    "_id": "623853b289abcdef01234567",
+    "index": 21,
+    "price": 23,
+    "picture": "https://images.unsplash.com/photo-1529374255404-311a2a4f1fd9?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=60",
+    "name": "Golden Hour",
+    "gender": "male"
+  },
+  {
+    "_id": "623853b2bcdef01234567890",
+    "index": 22,
+    "price": 19,
+    "picture": "https://images.unsplash.com/photo-1627225924765-552d49cf47ad?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=60",
+    "name": "Electric Blue",
+    "gender": "unisex"
+  },
+  {
+    "_id": "623853b2f0123456789abcde",
+    "index": 23,
+    "price": 27,
+    "picture": "https://images.unsplash.com/photo-1562157873-818bc0726f68?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=60",
+    "name": "Pure Essence",
+    "gender": "female"
+  },
+  {
+    "_id": "623853b2234567890abcdef1",
+    "index": 24,
+    "price": 16,
+    "picture": "https://images.unsplash.com/photo-1489987707025-afc232f7ea0f?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=60",
+    "name": "Happy Days",
+    "gender": "male"
+  },
+  {
+    "_id": "623853b267890abcdef12345",
+    "index": 25,
+    "price": 30,
+    "picture": "https://images.unsplash.com/photo-1598300042247-d088f8ab3a91?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=60",
+    "name": "Street Art",
+    "gender": "unisex"
+  },
+  {
+    "_id": "623853b290abcdef123456789",
+    "index": 26,
+    "price": 24,
+    "picture": "https://images.unsplash.com/photo-1503341338985-cbeef4a9fe0d?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=60",
+    "name": "Color Pop",
+    "gender": "female"
+  },
+  {
+    "_id": "623853b2cdef123456789012",
+    "index": 27,
+    "price": 18,
+    "picture": "https://images.unsplash.com/photo-1576566588028-4147f3842f27?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=60",
+    "name": "Deep Blue",
+    "gender": "male"
+  },
+  {
+    "_id": "623853b2f123456789012345",
+    "index": 28,
+    "price": 22,
+    "picture": "https://images.unsplash.com/photo-1618354691373-d851c5c3a990?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=60",
+    "name": "Morning Brew",
+    "gender": "unisex"
+  },
+  {
+    "_id": "623853b2456789012345678",
+    "index": 29,
+    "price": 35,
+    "picture": "https://images.unsplash.com/photo-1571945153237-4929e783af4a?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=60",
+    "name": "Premium Wild",
     "gender": "female"
   }
 ]
